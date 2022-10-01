@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Webspace/static/css/main.7dd628b9.css",
+    "main.js": "/Webspace/static/js/main.7d64a86e.js",
+    "static/js/787.e26d4699.chunk.js": "/Webspace/static/js/787.e26d4699.chunk.js",
+    "static/media/space.gif": "/Webspace/static/media/space.b5b570ed963ade69d291.gif",
+    "static/media/spacevid.mp4": "/Webspace/static/media/spacevid.41584ed51700d249bf73.mp4",
+    "static/media/solarwind.gif": "/Webspace/static/media/solarwind.0e3b42ee3755dc4da4c2.gif",
+    "static/media/Venus2.gif": "/Webspace/static/media/Venus2.376d99372402f13b0966.gif",
+    "static/media/sun2.gif": "/Webspace/static/media/sun2.6b5922b8e42ccbf9f3f7.gif",
+    "static/media/spacedust.gif": "/Webspace/static/media/spacedust.a4d628370203fc462f93.gif",
+    "static/media/entercorona.gif": "/Webspace/static/media/entercorona.1e33dca4d59901d281e3.gif",
+    "static/media/Venus1.gif": "/Webspace/static/media/Venus1.0024659744398276d013.gif",
+    "static/media/me.jpg": "/Webspace/static/media/me.8040e5b13256a80a19cf.jpg",
+    "static/media/space2.gif": "/Webspace/static/media/space2.435d27c739ab78c3d762.gif",
+    "static/media/parker2.png": "/Webspace/static/media/parker2.5d60e71bc96baa35e365.png",
+    "static/media/modelparker.png": "/Webspace/static/media/modelparker.34f49f2376c0264993d0.png",
+    "static/media/bhargav.jpeg": "/Webspace/static/media/bhargav.6fa74436a03f0f58a50c.jpeg",
+    "static/media/parkerlaunch.jpg": "/Webspace/static/media/parkerlaunch.43a96a2aadd3f91520f5.jpg",
+    "index.html": "/Webspace/index.html",
+    "main.7dd628b9.css.map": "/Webspace/static/css/main.7dd628b9.css.map",
+    "main.7d64a86e.js.map": "/Webspace/static/js/main.7d64a86e.js.map",
+    "787.e26d4699.chunk.js.map": "/Webspace/static/js/787.e26d4699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd628b9.css",
+    "static/js/main.7d64a86e.js"
+  ]
+}
